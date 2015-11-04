@@ -1,6 +1,8 @@
+[![Code Climate](https://codeclimate.com/github/amochumber/projectEuler/badges/gpa.svg)](https://codeclimate.com/github/amochumber/projectEuler)
+
 # projectEuler
 
-My answers to projectEuler problems - https://projecteuler.net/
+My answers to projectEuler problems - you can see the projectEuler site [here](https://projecteuler.net/)
 
 ##Edit:
 
