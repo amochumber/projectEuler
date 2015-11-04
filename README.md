@@ -1,4 +1,4 @@
-[![Code Climate](https://codeclimate.com/github/amochumber/projectEuler/badges/gpa.svg)](https://codeclimate.com/github/amochumber/projectEuler)
+[![Code Climate](https://codeclimate.com/github/sysadmiral/projectEuler/badges/gpa.svg)](https://codeclimate.com/github/sysadmiral/projectEuler)
 
 # projectEuler
 
