@@ -1,8 +1,12 @@
+---
 engines:
   golint:
     enabled: true
   gofmt:
     enabled: true
+  govet:
+    enabled: true
+    config: 
 ratings:
   paths: []
 exclude_paths: []
