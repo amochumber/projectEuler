@@ -1,3 +1,4 @@
+//Small script for projectEuler problem 2
 package main
 
 import "fmt"
